@@ -1,0 +1,10 @@
+# Generated QR codes
+*.png
+*.svg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
