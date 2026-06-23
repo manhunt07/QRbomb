@@ -20,7 +20,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/Manasseh-code/QRbomb.git](https://github.com/Manasseh-code/QRbomb.git)
+git clone [https://github.com/manhunt07/QRbomb.git](https://github.com/manhunt07/QRbomb.git)
 cd QRbomb
 ```
 
