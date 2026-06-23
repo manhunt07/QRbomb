@@ -20,7 +20,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOURUSERNAME/QRbomb.git
+git clone [https://github.com/Manasseh-code/QRbomb.git](https://github.com/Manasseh-code/QRbomb.git)
 cd QRbomb
 ```
 
@@ -40,7 +40,6 @@ chmod +x qrbomb.sh
 ---
 
 ## 🚀 Usage
-
 ### Interactive Menu (recommended)
 ```bash
 ./qrbomb.sh
